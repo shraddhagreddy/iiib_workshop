@@ -1,4 +1,4 @@
-### GENAI
+# GENAI
 workshop by K Aditya in IIITb
 
 ## Discriminative AI
@@ -78,7 +78,7 @@ workshop by K Aditya in IIITb
     - choosing the algorithm depends on the deployment
     - also depends on who you are serving
 
-- # Types of ML
+- ### Types of ML
     - 1) Supervised Learning
         - predictive model
         - labeled data
@@ -106,8 +106,8 @@ workshop by K Aditya in IIITb
             - analogous in nature
             - eg: boston house prediction, height to weight calculation, real estate price, sales of an item from inventory
 
-# chatgpt and deepseek undergo supervised and unsupervised learning. Starts with unsupervised and then supervised followed by reinforcement learning
-# reinforcement learning is a kind of reward system
+### chatgpt and deepseek undergo supervised and unsupervised learning. Starts with unsupervised and then supervised followed by reinforcement learning
+### reinforcement learning is a kind of reward system
     
     - Unsupervised Learning
         - we are given a data set and which has got no labels/ results
@@ -119,7 +119,7 @@ https://tinyurl.com/2s3d57be
 https://drive.google.com/drive/folders/1zUzhOcj_Ybomba8QQLxK2xriSm5C2xFq
 
 
-# kmeans.html
+### kmeans.html
 - here when we upload the image
 - it will be split according to the R,G,B 
 - feature vector
@@ -127,7 +127,7 @@ https://drive.google.com/drive/folders/1zUzhOcj_Ybomba8QQLxK2xriSm5C2xFq
 - elbow plot
 - image- rgb 
 
-# Neural network
+### Neural network
 - brings non linearity to data 
 - neuron/ network node: 
 - blue: input layer
@@ -141,10 +141,10 @@ https://drive.google.com/drive/folders/1zUzhOcj_Ybomba8QQLxK2xriSm5C2xFq
 - y actual - yact - ypred =error
 - after getting error u try to adjust ur weights
 - w new = w old - Ir*error
-- # watch andrew ng machine learning algo
-- # micrograd - back propagation algorithm lecture by andrew ng
-- # dr raj - ??
-- # mira muratis discriminative model
+- ### watch andrew ng machine learning algo
+- ### micrograd - back propagation algorithm lecture by andrew ng
+- ### dr raj - ??
+- ### mira muratis discriminative model
 - learning rate:- 
     - high: footsteps is high
     - low: 
@@ -152,16 +152,16 @@ https://drive.google.com/drive/folders/1zUzhOcj_Ybomba8QQLxK2xriSm5C2xFq
 - loss and accuracy
 
 
-# there is no searching or db in generative models - uses weights
-# they are auto regressive models
+### there is no searching or db in generative models - uses weights
+### they are auto regressive models
 
-# Tensorflow playground
+### Tensorflow playground
 - explore more and learn
 
 https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.67753&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false
 
 
-# vocabulary 
+### vocabulary 
 - Types of datasets:
     - train dataset - corpus of text used to adjust weights
     - test dataset - used to discover the right hyper parameters

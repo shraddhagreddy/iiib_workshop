@@ -101,5 +101,9 @@ https://colab.research.google.com/drive/1zuYDY4sWIu9TEO-Xxxrl5iAGyfvV0pKH#scroll
 
 
 - convolution neural network 
-    - spatial info
-    - 
+    - embedding spatial info
+    - sliding  and pyramiding in opencv
+        - ### he image will try to classify
+        - it is an application which is running 
+        - sw1.0 - 
+        - sw2.0 - try to get a model into the system 

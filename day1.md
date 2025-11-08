@@ -22,7 +22,7 @@ workshop by K Aditya in IIITb
 
 ## ML in layman's terms
 - field of study that gives computers the ability to learn without being explicitly programmed.
-- # tb def:
+- ### tb def:
     - a hypothetical function computed on the basis of currently available inputs and outputs to predict a probable output to futuristic outputs
     - what % is correct?
     - so predicting+probablity 

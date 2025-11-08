@@ -183,7 +183,10 @@ https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&r
 - training
 - nominal training
 - overfitting
+    - works great w the training but not testing
+    - imbalanced classes
 - underfitting
+    - less epochs or data is too wide
 - ML model
 - weights and bias
 - transfer learning - in small learning models

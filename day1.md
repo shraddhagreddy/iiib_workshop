@@ -166,3 +166,25 @@ https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&r
     - train dataset - corpus of text used to adjust weights
     - test dataset - used to discover the right hyper parameters
     - validation dataset
+- epoch 
+    - out of 100 samples used 80 samples for training
+    - how many iterations used to improve the weights
+- batch
+    - of all the samples, there is something called error
+    - this error contributed to adjusting the weights
+    - 80 samples -> 80 erros
+    - how to adjust weights?
+        - consider all weights and errors and consolidated and take average - batch size is 5 
+        - then after 16 weights then that is one batch
+    - subset of training data set, used to train the weights
+    - batch size larger - model is v sharp (larger RAMs)
+    - smaller batch size- model is generic (smaller batch size for smaller RAMs)
+- learning rate
+- training
+- nominal training
+- overfitting
+- underfitting
+- ML model
+- weights and bias
+- transfer learning - in small learning models
+    - called fine stuning in large models   

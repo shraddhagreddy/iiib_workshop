@@ -146,5 +146,11 @@ https://colab.research.google.com/drive/1zuYDY4sWIu9TEO-Xxxrl5iAGyfvV0pKH#scroll
 - try to recognise two most commonly consecutively existing chacracters
 - llm are priced based on the number of tokens
 
-- after byte pair encoding we do word embedding
-- 
+- after byte pair encoding we do word embedding/ token embedding
+- post that we do positional encoding / linear enoding/ sinusoidal encoding etc (depending on ur need)
+- left to right series of data 
+- where always my previous info is always imp to build on the next set of info
+- attention - brings the importance of one specific token
+- lesser temperature - makes it more deterministic
+- more temperature - makes it more creative
+- top- k also has to be learnt

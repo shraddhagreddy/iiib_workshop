@@ -107,3 +107,44 @@ https://colab.research.google.com/drive/1zuYDY4sWIu9TEO-Xxxrl5iAGyfvV0pKH#scroll
         - it is an application which is running 
         - sw1.0 - 
         - sw2.0 - try to get a model into the system 
+
+## GANS
+- Genarative Adversarial Network
+- push in some image -> try to discriminate
+- why not?
+    push in some nouse -> produce image
+- random noise -> generator
+- decoding 
+- 2 components - generative comp and discriminative comp
+- compare the original image with generted image 
+- GAN lab
+- poloclub.github.io/ganlab
+- unetarchitecture - refer
+- stepping up, stepping down concepts
+
+
+## LLM
+- large language model
+- token
+- Tiktokenizer
+- tokens: bunch of numbers 
+- when we put these statements:
+    Hello students lets learn Generative AI
+    Generative is a trending subject
+
+    - both the gener have diff values
+    - because of space in front of the first Gener
+    - token is a subword
+    - builds a relation between numbers
+    - take the corpus of text and convert into numerical values
+- bpe_demo
+- tokenization - trying to discover the vocabulary of tokens
+    - byte pair encoding
+    - character based
+    - word based
+    - bit pair tokenisation 
+- try to recognise two most commonly consecutively existing chacracters
+- llm are priced based on the number of tokens
+
+- after byte pair encoding we do word embedding
+- 
